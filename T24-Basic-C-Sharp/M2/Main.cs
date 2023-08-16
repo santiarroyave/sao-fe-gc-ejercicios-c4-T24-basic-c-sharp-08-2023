@@ -21,7 +21,22 @@ namespace T24_Basic_C_Sharp.M2
             Console.WriteLine("MILESTONE 1");
             Console.WriteLine("--------------------------------------------------");
             Milestone1 Milestone1 = new Milestone1();
-            Milestone1.Inicia();
+
+            // - FASE 1
+            Console.WriteLine("\n## Fase 1");
+            Milestone1.Fase1();
+
+            // - FASE 2
+            Console.WriteLine("\n## Fase 2");
+            Milestone1.Fase2();
+
+            // - FASE 3
+            Console.WriteLine("\n## Fase 3");
+            Milestone1.Fase3();
+
+            // - FASE 4
+            Console.WriteLine("\n## Fase 4");
+            Milestone1.Fase4();
         }
     }
 }

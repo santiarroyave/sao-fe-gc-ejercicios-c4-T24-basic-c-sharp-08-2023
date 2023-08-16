@@ -12,6 +12,19 @@ namespace T24_Basic_C_Sharp
     {
         public static void Main(string[] args)
         {
+            // Nota / indice
+            // Cada módulo tiene su propio main donde se llaman a sus respectivas funciones que ejecutan cada parte del ejercicio.
+
+            //   M1                   M2                  M3                  M4
+            //    - Milestone 1        - Milestone 1       - Milestone 1       - Milestone 1
+            //        - Fase 1             - Fase 1            - Fase 1            - Fase 1
+            //        - Fase 2             - Fase 2            - Fase 2            - Fase 2
+            //        - Fase 3             - Fase 3            - Fase 3            - Fase 3
+            //        - Fase 4             - Fase 4            - Fase 4       - Milestone 2
+            //    - Milestone 2       - Milestone 2       - Milestone 2       - Milestone 3
+            //    - Milestone 3       - Milestone 3       - Milestone 3
+
+
             //--------------------------------------------------------
             // M1 - Exercici Variables, Constants i bucle For
             //--------------------------------------------------------
@@ -23,9 +36,6 @@ namespace T24_Basic_C_Sharp
             //--------------------------------------------------------
             M2.Main m2 = new M2.Main();
             m2.Inicia();
-
-            
-
         }
     }
 }
