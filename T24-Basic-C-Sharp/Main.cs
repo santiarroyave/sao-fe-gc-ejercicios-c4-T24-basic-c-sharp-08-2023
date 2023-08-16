@@ -22,7 +22,7 @@ namespace T24_Basic_C_Sharp
             //        - Fase 3             - Fase 3            - Fase 3            - Fase 3
             //        - Fase 4             - Fase 4            - Fase 4       - Milestone 2
             //    - Milestone 2       - Milestone 2       - Milestone 2       - Milestone 3
-            //    - Milestone 3       - Milestone 3       - Milestone 3
+            //    - Milestone 3       - Milestone 3       - Milestone 3       
 
 
             //--------------------------------------------------------
