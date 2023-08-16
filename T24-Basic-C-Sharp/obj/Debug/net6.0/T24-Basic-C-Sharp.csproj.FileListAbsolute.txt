@@ -1,0 +1,14 @@
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\bin\Debug\net6.0\T24-Basic-C-Sharp.exe
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\bin\Debug\net6.0\T24-Basic-C-Sharp.deps.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\bin\Debug\net6.0\T24-Basic-C-Sharp.runtimeconfig.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\bin\Debug\net6.0\T24-Basic-C-Sharp.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\bin\Debug\net6.0\T24-Basic-C-Sharp.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\T24-Basic-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\T24-Basic-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\T24-Basic-C-Sharp.AssemblyInfo.cs
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\T24-Basic-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\T24-Basic-C-Sharp.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\refint\T24-Basic-C-Sharp.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\T24-Basic-C-Sharp.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\T24-Basic-C-Sharp.genruntimeconfig.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023\T24-Basic-C-Sharp\obj\Debug\net6.0\ref\T24-Basic-C-Sharp.dll
