@@ -31,6 +31,10 @@ namespace T24_Basic_C_Sharp
             Console.WriteLine("\n(Fase 4)");
             milestone1.Fase4();
 
+            // - MILESTONE 2
+            Console.WriteLine("\nMILESTONE 2\n-----------------------------------------");
+            Milestone2 milestone2 = new Milestone2();
+            milestone2.Inicia();
         }
     }
 }
