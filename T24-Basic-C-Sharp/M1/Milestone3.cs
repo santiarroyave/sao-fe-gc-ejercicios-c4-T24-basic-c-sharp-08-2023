@@ -33,6 +33,7 @@ namespace T24_Basic_C_Sharp.M1
             {
                 Console.Write(num + " ");
             }
+            Console.WriteLine();
         }
     }
 }

@@ -12,34 +12,30 @@ namespace T24_Basic_C_Sharp
     {
         public static void Main(string[] args)
         {
+            // Nota / indice
+            // Cada módulo tiene su propio main donde se llaman a sus respectivas funciones que ejecutan cada parte del ejercicio.
+
+            //   M1                   M2                  M3                  M4
+            //    - Milestone 1        - Milestone 1       - Milestone 1       - Milestone 1
+            //        - Fase 1             - Fase 1            - Fase 1            - Fase 1
+            //        - Fase 2             - Fase 2            - Fase 2            - Fase 2
+            //        - Fase 3             - Fase 3            - Fase 3            - Fase 3
+            //        - Fase 4             - Fase 4            - Fase 4       - Milestone 2
+            //    - Milestone 2       - Milestone 2       - Milestone 2       - Milestone 3
+            //    - Milestone 3       - Milestone 3       - Milestone 3       
+
+
             //--------------------------------------------------------
             // M1 - Exercici Variables, Constants i bucle For
             //--------------------------------------------------------
-            // - MILESTONE 1
-            Console.WriteLine("MILESTONE 1\n-----------------------------------------");
-            Milestone1 milestone1 = new Milestone1();
-            // - FASE 1
-            Console.WriteLine("\n(Fase 1)");
-            milestone1.Fase1();
-            // - FASE 2
-            Console.WriteLine("\n(Fase 2)");
-            milestone1.Fase2();
-            // - FASE 3
-            Console.WriteLine("\n(Fase 3)");
-            milestone1.Fase3();
-            // - FASE 4
-            Console.WriteLine("\n(Fase 4)");
-            milestone1.Fase4();
+            M1.Main m1 = new M1.Main();
+            m1.Inicia();
 
-            // - MILESTONE 2
-            Console.WriteLine("\nMILESTONE 2\n-----------------------------------------");
-            Milestone2 milestone2 = new Milestone2();
-            milestone2.Inicia();
-
-            // - MILESTONE 3
-            Console.WriteLine("\nMILESTONE 3\n-----------------------------------------");
-            Milestone3 milestone3 = new Milestone3();
-            milestone3.Inicia();
+            //--------------------------------------------------------
+            // M2 - Exercici Lletres Repetides
+            //--------------------------------------------------------
+            M2.Main m2 = new M2.Main();
+            m2.Inicia();
         }
     }
 }
