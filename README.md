@@ -9,7 +9,7 @@
     - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Milestone3.cs)
 
 - M2 Ejercicio letras repetidas
-    - [Main]()
+    - [Main](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Main.cs)
     - [Milestone 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone1.cs)
     - [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone2.cs)
     - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone3.cs)
