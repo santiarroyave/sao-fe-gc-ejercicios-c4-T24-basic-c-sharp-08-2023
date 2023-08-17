@@ -1,4 +1,18 @@
 # C4-T24 Basic C#
+## Enlaces al código
+- [Main](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/Main.cs)
+
+### M1 Ejercicio Variables, Constantes y bucle For 
+- [Main](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Main.cs)
+- [Milestone 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Milestone1.cs)
+- [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Milestone2.cs)
+- [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Milestone3.cs)
+
+### M2 Ejercicio letras repetidas
+- [Main]()
+- [Milestone 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone1.cs)
+- [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone2.cs)
+- [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone3.cs)
 
 ## M1 Ejercicio Variables, Constantes y bucle For 
 [Enunciados M1 (pdf)](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/Enunciados/M1.%20Enunciat%20Variables.pdf)
@@ -31,27 +45,28 @@
     Útil para actualizar o reescribir valores específicos sin borrar el contenido anterior.
 
     - Establecer posición del cursor
-    ```c#
-    Console.SetCursorPosition(int left, int top):
-    // - 'left' indica la posición horizontal (columna) donde se ubicará el cursor.
-    // - 'top' indica la posición vertical (fila) donde se ubicará el cursor.
-    ```
+        ```c#
+        Console.SetCursorPosition(int left, int top):
+        // - 'left' indica la posición horizontal (columna) donde se ubicará el cursor.
+        // - 'top' indica la posición vertical (fila) donde se ubicará el cursor.
+        ```
 
     - Ejemplo para posicionar el cursor en la ultima fila cuando tiene salto de línea (WriteLine).
-    ```c#
-    // Si se hace scroll, la ubicación será diferente
-    Console.SetCursorPosition(0, Console.WindowTop + Console.WindowHeight - 2);
-    ```
+        ```c#
+        // Si se hace scroll, la ubicación será diferente
+        Console.SetCursorPosition(0, Console.WindowTop + Console.WindowHeight - 2);
+        ```
 
     - Ejemplo para posicionar el cursor en la ultima fila cuando no tiene salto de línea (Write).
-    ```c#
-    Console.SetCursorPosition(0, Console.WindowTop + Console.WindowHeight - 1);
-    ```
+        ```c#
+        // Si se hace scroll, la ubicación será diferente
+        Console.SetCursorPosition(0, Console.WindowTop + Console.WindowHeight - 1);
+        ```
 
     - Borrar línea una vez seleccionada
-    ```c#
-    Console.Write(new string(' ', Console.WindowWidth));
-    ``` 
+        ```c#
+        Console.Write(new string(' ', Console.WindowWidth));
+        ``` 
 
 - Métodos de Interpolación de Cadenas
     ```c#
@@ -63,7 +78,8 @@
     ```
 
 - Especificadores de formato
-    [Cadenas con formato numérico estándar](https://learn.microsoft.com/es-es/dotnet/standard/base-types/standard-numeric-format-strings)
+
+    [Documentación: Cadenas con formato numérico estándar](https://learn.microsoft.com/es-es/dotnet/standard/base-types/standard-numeric-format-strings)
     ```c#
     Console.WriteLine($"{hour:00}:{minutes:00}:{seconds:00}");
     Console.WriteLine($"{hour:D2}:{minutes:D2}:{seconds:D2}");
