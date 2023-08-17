@@ -39,7 +39,7 @@ namespace T24_Basic_C_Sharp.M2
             Milestone1.Fase4();
 
             // - MILESTONE 2
-            Console.WriteLine("MILESTONE 2");
+            Console.WriteLine("\nMILESTONE 2");
             Console.WriteLine("--------------------------------------------------");
             Milestone2 Milestone2 = new Milestone2();
 
@@ -50,6 +50,13 @@ namespace T24_Basic_C_Sharp.M2
             // - Piramide invertida
             Console.WriteLine("\n## Part 2");
             Milestone2.Inicia2();
+
+            // - MILESTONE 3
+            Console.WriteLine("\nMILESTONE 3");
+            Console.WriteLine("--------------------------------------------------");
+            Milestone3 Milestone3 = new Milestone3();
+            Milestone3.Inicia();
+
         }
     }
 }

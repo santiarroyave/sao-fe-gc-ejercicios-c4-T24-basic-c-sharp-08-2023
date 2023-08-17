@@ -9,10 +9,68 @@
 ## M2 Ejercicio letras repetidas
 [Enunciados M2 (pdf)](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/Enunciados/M2.%20Enunciat%20Lletres%20Repetides.pdf)
 - Milestone 1: Manipular Arrays de carácteres de diferentes tipos (Array, List, Dictionary).
+- Milestone 2: Escalera de números y pirámide invertida.
+- Milestone 3: Reloj infinito.
 
 ## Notas
-- Se puede usar *"new string(carácter, cantidad)"* para crear cadenas con carácteres repetidos."
+- Se puede usar *"new string(carácter, cantidad)"* para crear cadenas con carácteres repetidos." (M2.Milestone2)
     ```c#
     string asteriscos = new string('*', 5); // *****
     ```
 
+- Obtener hora actual (M2.Milestone3)
+    ```c#
+    TimeSpan horaActual = DateTime.Now.TimeOfDay;
+
+    int hour = horaActual.Hours;
+    int minutes = horaActual.Minutes;
+    int seconds = horaActual.Seconds;
+    ```
+
+- Actualizar o reescribir valores de la consola.
+    Útil para actualizar o reescribir valores específicos sin borrar el contenido anterior.
+
+    - Establecer posición del cursor
+    ```c#
+    Console.SetCursorPosition(int left, int top):
+    // - 'left' indica la posición horizontal (columna) donde se ubicará el cursor.
+    // - 'top' indica la posición vertical (fila) donde se ubicará el cursor.
+    ```
+
+    - Ejemplo para posicionar el cursor en la ultima fila cuando tiene salto de línea (WriteLine).
+    ```c#
+    // Si se hace scroll, la ubicación será diferente
+    Console.SetCursorPosition(0, Console.WindowTop + Console.WindowHeight - 2);
+    ```
+
+    - Ejemplo para posicionar el cursor en la ultima fila cuando no tiene salto de línea (Write).
+    ```c#
+    Console.SetCursorPosition(0, Console.WindowTop + Console.WindowHeight - 1);
+    ```
+
+    - Borrar línea una vez seleccionada
+    ```c#
+    Console.Write(new string(' ', Console.WindowWidth));
+    ``` 
+
+- Métodos de Interpolación de Cadenas
+    ```c#
+    string mensaje = string.Format("Hola, mi nombre es {0} y tengo {1} años.", nombre, edad);
+    ```
+
+    ```c#
+    string mensaje = $"Hola, mi nombre es {nombre} y tengo {edad} años.";
+    ```
+
+- Especificadores de formato
+    [Cadenas con formato numérico estándar](https://learn.microsoft.com/es-es/dotnet/standard/base-types/standard-numeric-format-strings)
+    ```c#
+    Console.WriteLine($"{hour:00}:{minutes:00}:{seconds:00}");
+    Console.WriteLine($"{hour:D2}:{minutes:D2}:{seconds:D2}");
+    ```
+    Algunos ejemplos:
+    - **{valor:F2}**: Muestra el valor numérico con 2 decimales (por ejemplo, 3.14).
+    - **{valor:C}**: Muestra el valor numérico como una moneda (por ejemplo, $10.00).
+    - **{valor:D4}**: Muestra el valor numérico como un número entero con al menos 4 dígitos (por ejemplo, 0012).
+    - **{fecha:d}**: Muestra la fecha en formato corto (por ejemplo, 8/16/2023).
+    - **{cadena,-10}**: Alinea la cadena a la izquierda con un ancho mínimo de 10 caracteres.
