@@ -45,8 +45,8 @@
 - Milestone 3: Sucuencia de Fibonacci.
 
 ## M4 Ejercicio restaurante
-- Milestone 1:
-- Milestone 2: 
+- Milestone 1: Crear programa para pedir platos de un menú.
+- Milestone 2: Crear excepciones a la hora de elegir platos.
 - Milestone 3: 
 
 ## Notas
