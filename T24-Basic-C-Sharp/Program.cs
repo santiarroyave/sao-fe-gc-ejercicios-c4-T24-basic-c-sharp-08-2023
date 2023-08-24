@@ -106,6 +106,7 @@ namespace T24_Basic_C_Sharp
                     Console.Clear();
                     M3.Program m3 = new M3.Program();
                     m3.Inicia();
+                    Console.ReadLine();
                     break;
                 case 3:
                     //--------------------------------------------------------

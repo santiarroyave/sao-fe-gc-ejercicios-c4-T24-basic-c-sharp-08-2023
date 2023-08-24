@@ -22,13 +22,17 @@ namespace T24_Basic_C_Sharp.M3
             Milestone1 milestone1 = new Milestone1();
             milestone1.Inicia();
 
-            // - MILESTONE 1
+            // - MILESTONE 2
             Console.WriteLine("MILESTONE 2");
             Console.WriteLine("--------------------------------------------------");
             Milestone2 milestone2 = new Milestone2();
             milestone2.Inicia();
 
-            Console.ReadLine();
+            // - MILESTONE 3
+            Console.WriteLine("MILESTONE 3");
+            Console.WriteLine("--------------------------------------------------");
+            Milestone3 milestone3 = new Milestone3();
+            milestone3.Inicia();
         }
     }
 }
