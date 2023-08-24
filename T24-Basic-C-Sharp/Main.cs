@@ -104,7 +104,7 @@ namespace T24_Basic_C_Sharp
                     // M3 - Exercici Noms Ciutats
                     //--------------------------------------------------------
                     Console.Clear();
-                    M3.Main m3 = new M3.Main();
+                    M3.Program m3 = new M3.Program();
                     m3.Inicia();
                     break;
                 case 3:

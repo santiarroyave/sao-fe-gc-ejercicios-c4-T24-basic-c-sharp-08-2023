@@ -26,6 +26,10 @@
 - Milestone 2: Escalera de números y pirámide invertida.
 - Milestone 3: Reloj infinito.
 
+## M3 Ejercicio nombres ciudades
+[Enunciados M3 (pdf)](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/Enunciados/M3.%20Enunciat%20Noms%20Ciutats.pdf)
+- Milestone 1: Manipular Array de strings (ordenar alfabeticamente, cambiar vocal por numero, crear array con las letras)
+
 ## Notas
 - Se puede usar *"new string(carácter, cantidad)"* para crear cadenas con carácteres repetidos." (M2.Milestone2)
     ```c#
