@@ -14,11 +14,17 @@
     - [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone2.cs)
     - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone3.cs)
 
-- M3: Ejercicio nombres ciudades
+- M3 Ejercicio nombres ciudades
     - [Program](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M3/Program.cs)
     - [Milestone 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M3/Milestone1.cs)
     - [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M3/Milestone2.cs)
     - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M3/Milestone3.cs)
+
+- M4 Ejercicio restaurante
+    - [Program]()
+    - [Milestone 1]()
+    - [Milestone 2]()
+    - [Milestone 3]()
 
 ## M1 Ejercicio Variables, Constantes y bucle For 
 [Enunciados M1 (pdf)](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/Enunciados/M1.%20Enunciat%20Variables.pdf)
@@ -37,6 +43,11 @@
 - Milestone 1: Manipular Array de strings (ordenar alfabeticamente, cambiar vocal por numero, crear array con las letras).
 - Milestone 2: Poner 3 notas a 5 alumnos, calcular media y mostrar si han aprobado o no.
 - Milestone 3: Sucuencia de Fibonacci.
+
+## M4 Ejercicio restaurante
+- Milestone 1: Crear programa para pedir platos de un menú.
+- Milestone 2: Crear excepciones a la hora de elegir platos.
+- Milestone 3: Excepciones personalizadas.
 
 ## Notas
 - Se puede usar *"new string(carácter, cantidad)"* para crear cadenas con carácteres repetidos." (M2.Milestone2)
