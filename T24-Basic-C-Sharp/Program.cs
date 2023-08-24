@@ -113,8 +113,9 @@ namespace T24_Basic_C_Sharp
                     // M4 - Exercici Restaurant
                     //--------------------------------------------------------
                     Console.Clear();
-                    //M4.Main m4 = new M4.Main();
-                    //m4.Inicia();
+                    M4.Program m4 = new M4.Program();
+                    m4.Inicia();
+                    Console.ReadLine();
                     break;
             }
         }
