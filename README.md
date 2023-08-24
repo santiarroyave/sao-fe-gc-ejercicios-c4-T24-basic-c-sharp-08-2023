@@ -47,7 +47,7 @@
 ## M4 Ejercicio restaurante
 - Milestone 1: Crear programa para pedir platos de un menú.
 - Milestone 2: Crear excepciones a la hora de elegir platos.
-- Milestone 3: 
+- Milestone 3: Excepciones personalizadas.
 
 ## Notas
 - Se puede usar *"new string(carácter, cantidad)"* para crear cadenas con carácteres repetidos." (M2.Milestone2)
