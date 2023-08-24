@@ -9,7 +9,7 @@
     - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Milestone3.cs)
 
 - M2 Ejercicio letras repetidas
-    - [Main]()
+    - [Main](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Main.cs)
     - [Milestone 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone1.cs)
     - [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone2.cs)
     - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone3.cs)
@@ -25,6 +25,12 @@
 - Milestone 1: Manipular Arrays de carácteres de diferentes tipos (Array, List, Dictionary).
 - Milestone 2: Escalera de números y pirámide invertida.
 - Milestone 3: Reloj infinito.
+
+## M3 Ejercicio nombres ciudades
+[Enunciados M3 (pdf)](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/Enunciados/M3.%20Enunciat%20Noms%20Ciutats.pdf)
+- Milestone 1: Manipular Array de strings (ordenar alfabeticamente, cambiar vocal por numero, crear array con las letras).
+- Milestone 2: Poner 3 notas a 5 alumnos, calcular media y mostrar si han aprobado o no.
+- Milestone 3: Sucuencia de Fibonacci.
 
 ## Notas
 - Se puede usar *"new string(carácter, cantidad)"* para crear cadenas con carácteres repetidos." (M2.Milestone2)

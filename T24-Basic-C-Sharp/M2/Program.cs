@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace T24_Basic_C_Sharp.M2
 {
-    internal class Main
+    internal class Program
     {
         public void Inicia()
         {
-            Console.WriteLine("\n\n");
             Console.WriteLine("##################################################");
             Console.WriteLine("#                                                #");
             Console.WriteLine("# M2 - Exercici Lletres Repetides                #");
