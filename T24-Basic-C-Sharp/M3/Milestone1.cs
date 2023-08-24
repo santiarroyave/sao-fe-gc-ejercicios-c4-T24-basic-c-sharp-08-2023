@@ -19,7 +19,7 @@ namespace T24_Basic_C_Sharp.M3
         //  - Demana per consola que s’introdueixin els noms.
         //  - Introdueix els següents noms de ciutats (Barcelona, Madrid, Valencia, Malaga, Cadis, Santander) per teclat.
         //  - Mostra per consola el nom de les 6 ciutats.
-        public void Fase1()
+        public void Inicia()
         {
             string ciutat1;
             string ciutat2;
@@ -61,17 +61,15 @@ namespace T24_Basic_C_Sharp.M3
             MostrarPerOrdreAlfabetic(ArrayCiutatsModificades);
 
             //FASE 4
-            //  - Creeu un nou array per cada una de les ciutats que tenim. La mida dels nous arrays sera la llargada de cada string (string nomCiutat.Length). Crea un array bidimensional capaç de guardar 3 notes de 5 alumnes.
-            //  -Ompliu els nous arrays lletra per lletra.
-            //  -Mostreu per consola els nous arrays amb els noms invertits (Ex: Barcelona - anolecraB).
+            //  - Creeu un nou array per cada una de les ciutats que tenim. La mida dels nous arrays sera la llargada de cada string (string nomCiutat.Length).
+            //  - Ompliu els nous arrays lletra per lletra.
+            //  - Mostreu per consola els nous arrays amb els noms invertits (Ex: Barcelona - anolecraB).
             string[] arrayCiutat1 = new string[ciutat1.Length];
             string[] arrayCiutat2 = new string[ciutat2.Length];
             string[] arrayCiutat3 = new string[ciutat3.Length];
             string[] arrayCiutat4 = new string[ciutat4.Length];
             string[] arrayCiutat5 = new string[ciutat5.Length];
             string[] arrayCiutat6 = new string[ciutat6.Length];
-
-            double[,] notesAlumnes = new double[5, 3];
 
             arrayCiutat1 = OmplirLletraPerLletra(ciutat1);
             arrayCiutat2 = OmplirLletraPerLletra(ciutat2);
@@ -87,9 +85,6 @@ namespace T24_Basic_C_Sharp.M3
             MostrarArrayInvertit(arrayCiutat4);
             MostrarArrayInvertit(arrayCiutat5);
             MostrarArrayInvertit(arrayCiutat6);
-
-
-            Console.ReadLine();
         }
 
         public void MostrarPerOrdreAlfabetic(string[] valors)
