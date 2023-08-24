@@ -1,18 +1,24 @@
 # C4-T24 Basic C#
 ## Enlaces al código
-- [Main](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/Main.cs)
+- [Program](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/Program.cs)
 
 - M1 Ejercicio Variables, Constantes y bucle For 
-    - [Main](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Main.cs)
+    - [Program](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Program.cs)
     - [Milestone 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Milestone1.cs)
     - [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Milestone2.cs)
     - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M1/Milestone3.cs)
 
 - M2 Ejercicio letras repetidas
-    - [Main](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Main.cs)
+    - [Program](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Program.cs)
     - [Milestone 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone1.cs)
     - [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone2.cs)
     - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M2/Milestone3.cs)
+
+- M3: Ejercicio nombres ciudades
+    - [Program](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M3/Program.cs)
+    - [Milestone 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M3/Milestone1.cs)
+    - [Milestone 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M3/Milestone2.cs)
+    - [Milestone 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/T24-Basic-C-Sharp/M3/Milestone3.cs)
 
 ## M1 Ejercicio Variables, Constantes y bucle For 
 [Enunciados M1 (pdf)](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023/blob/main/Enunciados/M1.%20Enunciat%20Variables.pdf)
