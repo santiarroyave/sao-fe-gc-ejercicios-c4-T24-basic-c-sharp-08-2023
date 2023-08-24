@@ -93,8 +93,12 @@
 
     [Documentación: Cadenas con formato numérico estándar](https://learn.microsoft.com/es-es/dotnet/standard/base-types/standard-numeric-format-strings)
     ```c#
+    // Ejemplo visto en M2/Milestone3
     Console.WriteLine($"{hour:00}:{minutes:00}:{seconds:00}");
     Console.WriteLine($"{hour:D2}:{minutes:D2}:{seconds:D2}");
+
+    // Ejemplo visto en M3/Milestone2
+    Console.WriteLine("Mitjana: {0}", mitjana.ToString("F2"));
     ```
     Algunos ejemplos:
     - **{valor:F2}**: Muestra el valor numérico con 2 decimales (por ejemplo, 3.14).
