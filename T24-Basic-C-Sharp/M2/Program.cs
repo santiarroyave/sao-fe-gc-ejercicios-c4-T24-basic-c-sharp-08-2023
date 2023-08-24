@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace T24_Basic_C_Sharp.M2
 {
-    internal class Main
+    internal class Program
     {
         public void Inicia()
         {

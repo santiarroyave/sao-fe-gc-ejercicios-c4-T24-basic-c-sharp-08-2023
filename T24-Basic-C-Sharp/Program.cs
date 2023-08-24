@@ -87,7 +87,7 @@ namespace T24_Basic_C_Sharp
                     // M1 - Exercici Variables, Constants i bucle For
                     //--------------------------------------------------------
                     Console.Clear();
-                    M1.Main m1 = new M1.Main();
+                    M1.Program m1 = new M1.Program();
                     m1.Inicia();
                     Console.ReadLine();
                     break;
@@ -96,7 +96,7 @@ namespace T24_Basic_C_Sharp
                     // M2 - Exercici Lletres Repetides
                     //--------------------------------------------------------
                     Console.Clear();
-                    M2.Main m2 = new M2.Main();
+                    M2.Program m2 = new M2.Program();
                     m2.Inicia();
                     break;
                 case 2:
